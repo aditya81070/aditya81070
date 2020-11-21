@@ -10,8 +10,6 @@ Here are some ideas to get you started:
 <!-- - 💬 Ask me about  -->
 <!-- - ⚡ Fun fact: -->
 
-- 🔭 I’m currently working on React and Redux.
-- 🌱 I’m currently learning Data structures & Algorithms, micro-frontend architectures.
 - 📫 How to reach me:
   - Twitter [@aditya81070](https://twitter.com/aditya81070)
   - LinkedIn [@aditya81070](https://linkedin.com/in/aditya81070)
