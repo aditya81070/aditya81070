@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
   - Twitter [@aditya81070](https://twitter.com/aditya81070)
   - LinkedIn [@aditya81070](https://linkedin.com/in/aditya81070)
-- 😄 Pronouns: He/Him
 
 
 Public Contributions             |  Top Languages
